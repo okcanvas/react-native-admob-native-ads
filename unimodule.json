@@ -1,0 +1,4 @@
+{
+  "name": "react-native-admob-native-ads",
+  "platforms": ["ios", "android"]
+}
