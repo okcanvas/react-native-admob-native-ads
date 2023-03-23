@@ -1,1 +1,1 @@
-module.exports = require('./plugin/bin/withAdmobNativeAds');
+module.exports = require('./plugin/js/withAdmobNativeAds');
